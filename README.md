@@ -1,4 +1,4 @@
-## General CSS notes, advice and guidelines
+# General CSS notes, advice and guidelines
 
 크고 장기적인 프로적트에 많은 개발자가 함께 참여할 경우
 많은 규칙들을 세우듯, css 또한 아래와 같은 목적들을 위해 일괄적으로 규범을 정해 놓고 진행 하는 것이 좋습니다~
